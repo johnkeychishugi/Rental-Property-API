@@ -33,7 +33,6 @@ rental/
 │   ├── app.js           # Express app configuration
 │   └── index.js         # Main exports
 ├── server.js            # Server entry point
-├── test-api.js          # API testing script
 ├── package.json         # Dependencies and scripts
 └── README.md           # Documentation
 ```
