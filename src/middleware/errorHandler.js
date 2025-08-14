@@ -1,8 +1,4 @@
 /**
- * Error handling middleware
- */
-
-/**
  * Handle validation errors
  */
 function handleValidationError(error, res) {
